@@ -1,0 +1,17 @@
+package finddd;
+import java.util.Scanner;
+
+public class school {
+	public static void main(String args[]) {
+		Scanner scan = new Scanner(System.in);
+		
+		
+		for(int i=0;i<=8;i++) {
+			
+			System.out.println(i+"*2="+i*2);
+		}
+	
+	}
+	
+	
+}
